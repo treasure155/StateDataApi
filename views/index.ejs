@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>State Information</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Select a State</h1>
+    <form action="/index" method="POST">
+      <select name="state" required>
+        <option value="" disabled selected>Select a state</option>
+        <% states.forEach(function(state) { %>
+          <option value="<%= state.state %>"><%= state.state %></option>
+        <% }) %>
+      </select>
+      <button type="submit">Enter</button>
+    </form>
+
+    <% if (selectedState) { %>
+      <h2>Information for <%= selectedState.state %></h2>
+      <table>
+        <tr>
+          <th>Headquarters</th>
+          <td><%= selectedState.headquarters %></td>
+        </tr>
+        <tr>
+          <th>Governor</th>
+          <td><%= selectedState.governor %></td>
+        </tr>
+        <tr>
+          <th>GDP</th>
+          <td><%= selectedState.gdp %></td>
+        </tr>
+        <tr>
+          <th>Population</th>
+          <td><%= selectedState.population.count %> (<%= selectedState.population.year %>)</td>
+        </tr>
+        <tr>
+          <th>Landmass</th>
+          <td><%= selectedState.landmass %></td>
+        </tr>
+      </table>
+    <% } %>
+    <div class="return-home">
+      <a href="/" class="btn-return-home">Return to Home</a>
+    </div>
+  
+  </div>
+
+
+</body>
+</html>

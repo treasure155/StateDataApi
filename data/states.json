@@ -1,0 +1,398 @@
+[
+    {
+      "state": "Abia",
+      "headquarters": "Umuahia",
+      "governor": "Alex Otti",
+      "gdp": "8.7 billion USD",
+      "population": {
+        "count": "4.1 million",
+        "year": 2024
+      },
+      "landmass": "6,320 km²"
+    },
+    {
+      "state": "Adamawa",
+      "headquarters": "Yola",
+      "governor": "Ahmadu Umaru Fintiri",
+      "gdp": "4.2 billion USD",
+      "population": {
+        "count": "4.9 million",
+        "year": 2024
+      },
+      "landmass": "36,917 km²"
+    },
+    {
+      "state": "Akwa Ibom",
+      "headquarters": "Uyo",
+      "governor": "Umo Eno",
+      "gdp": "11 billion USD",
+      "population": {
+        "count": "5.5 million",
+        "year": 2024
+      },
+      "landmass": "7,081 km²"
+    },
+    {
+      "state": "Anambra",
+      "headquarters": "Awka",
+      "governor": "Charles Chukwuma Soludo",
+      "gdp": "10.3 billion USD",
+      "population": {
+        "count": "5.9 million",
+        "year": 2024
+      },
+      "landmass": "4,844 km²"
+    },
+    {
+      "state": "Bauchi",
+      "headquarters": "Bauchi",
+      "governor": "Bala Mohammed",
+      "gdp": "6.9 billion USD",
+      "population": {
+        "count": "7.8 million",
+        "year": 2024
+      },
+      "landmass": "49,119 km²"
+    },
+    {
+      "state": "Bayelsa",
+      "headquarters": "Yenagoa",
+      "governor": "Douye Diri",
+      "gdp": "4.3 billion USD",
+      "population": {
+        "count": "2.4 million",
+        "year": 2024
+      },
+      "landmass": "10,773 km²"
+    },
+    {
+      "state": "Benue",
+      "headquarters": "Makurdi",
+      "governor": "Hyacinth Alia",
+      "gdp": "6.8 billion USD",
+      "population": {
+        "count": "5.8 million",
+        "year": 2024
+      },
+      "landmass": "34,059 km²"
+    },
+    {
+      "state": "Borno",
+      "headquarters": "Maiduguri",
+      "governor": "Babagana Umara Zulum",
+      "gdp": "5.1 billion USD",
+      "population": {
+        "count": "5.9 million",
+        "year": 2024
+      },
+      "landmass": "70,898 km²"
+    },
+    {
+      "state": "Cross River",
+      "headquarters": "Calabar",
+      "governor": "Bassey Otu",
+      "gdp": "7.2 billion USD",
+      "population": {
+        "count": "3.7 million",
+        "year": 2024
+      },
+      "landmass": "20,156 km²"
+    },
+    {
+      "state": "Delta",
+      "headquarters": "Asaba",
+      "governor": "Sheriff Oborevwori",
+      "gdp": "16.8 billion USD",
+      "population": {
+        "count": "5.7 million",
+        "year": 2024
+      },
+      "landmass": "17,698 km²"
+    },
+    {
+      "state": "Ebonyi",
+      "headquarters": "Abakaliki",
+      "governor": "Francis Ogbonna Nwifuru",
+      "gdp": "4.4 billion USD",
+      "population": {
+        "count": "2.9 million",
+        "year": 2024
+      },
+      "landmass": "5,533 km²"
+    },
+    {
+      "state": "Edo",
+      "headquarters": "Benin City",
+      "governor": "Godwin Obaseki",
+      "gdp": "11.9 billion USD",
+      "population": {
+        "count": "4.7 million",
+        "year": 2024
+      },
+      "landmass": "17,802 km²"
+    },
+    {
+      "state": "Ekiti",
+      "headquarters": "Ado Ekiti",
+      "governor": "Biodun Oyebanji",
+      "gdp": "5.3 billion USD",
+      "population": {
+        "count": "3.5 million",
+        "year": 2024
+      },
+      "landmass": "6,353 km²"
+    },
+    {
+      "state": "Enugu",
+      "headquarters": "Enugu",
+      "governor": "Peter Mbah",
+      "gdp": "6.4 billion USD",
+      "population": {
+        "count": "4.4 million",
+        "year": 2024
+      },
+      "landmass": "7,161 km²"
+    },
+    {
+      "state": "Gombe",
+      "headquarters": "Gombe",
+      "governor": "Muhammad Inuwa Yahaya",
+      "gdp": "3.8 billion USD",
+      "population": {
+        "count": "3.2 million",
+        "year": 2024
+      },
+      "landmass": "20,265 km²"
+    },
+    {
+      "state": "Imo",
+      "headquarters": "Owerri",
+      "governor": "Hope Uzodinma",
+      "gdp": "8.1 billion USD",
+      "population": {
+        "count": "5.4 million",
+        "year": 2024
+      },
+      "landmass": "5,530 km²"
+    },
+    {
+      "state": "Jigawa",
+      "headquarters": "Dutse",
+      "governor": "Umar Namadi",
+      "gdp": "5.1 billion USD",
+      "population": {
+        "count": "5.8 million",
+        "year": 2024
+      },
+      "landmass": "23,154 km²"
+    },
+    {
+      "state": "Kaduna",
+      "headquarters": "Kaduna",
+      "governor": "Uba Sani",
+      "gdp": "12 billion USD",
+      "population": {
+        "count": "8.0 million",
+        "year": 2024
+      },
+      "landmass": "46,053 km²"
+    },
+    {
+      "state": "Kano",
+      "headquarters": "Kano",
+      "governor": "Abba Kabir Yusuf",
+      "gdp": "12 billion USD",
+      "population": {
+        "count": "20 million",
+        "year": 2024
+      },
+      "landmass": "20,131 km²"
+    },
+    {
+      "state": "Katsina",
+      "headquarters": "Katsina",
+      "governor": "Dikko Umaru Radda",
+      "gdp": "5.6 billion USD",
+      "population": {
+        "count": "8.9 million",
+        "year": 2024
+      },
+      "landmass": "23,561 km²"
+    },
+    {
+      "state": "Kebbi",
+      "headquarters": "Birnin Kebbi",
+      "governor": "Nasiru Idris",
+      "gdp": "5.1 billion USD",
+      "population": {
+        "count": "4.4 million",
+        "year": 2024
+      },
+      "landmass": "36,800 km²"
+    },
+    {
+      "state": "Kogi",
+      "headquarters": "Lokoja",
+      "governor": "Yahaya Bello",
+      "gdp": "6.0 billion USD",
+      "population": {
+        "count": "4.5 million",
+        "year": 2024
+      },
+      "landmass": "29,833 km²"
+    },
+    {
+      "state": "Kwara",
+      "headquarters": "Ilorin",
+      "governor": "AbdulRahman AbdulRazaq",
+      "gdp": "6.5 billion USD",
+      "population": {
+        "count": "3.6 million",
+        "year": 2024
+      },
+      "landmass": "36,825 km²"
+    },
+    {
+      "state": "Lagos",
+      "headquarters": "Ikeja",
+      "governor": "Babajide Sanwo-Olu",
+      "gdp": "33 billion USD",
+      "population": {
+        "count": "24 million",
+        "year": 2024
+      },
+      "landmass": "3,345 km²"
+    },
+    {
+      "state": "Nasarawa",
+      "headquarters": "Lafia",
+      "governor": "Abdullahi Sule",
+      "gdp": "5.5 billion USD",
+      "population": {
+        "count": "2.8 million",
+        "year": 2024
+      },
+      "landmass": "27,098 km²"
+    },
+    {
+      "state": "Niger",
+      "headquarters": "Minna",
+      "governor": "Mohammed Bago",
+      "gdp": "7.0 billion USD",
+      "population": {
+        "count": "5.2 million",
+        "year": 2024
+      },
+      "landmass": "76,363 km²"
+    },
+    {
+      "state": "Ogun",
+      "headquarters": "Abeokuta",
+      "governor": "Dapo Abiodun",
+      "gdp": "8.5 billion USD",
+      "population": {
+        "count": "4.7 million",
+        "year": 2024
+      },
+      "landmass": "16,762 km²"
+    },
+    {
+      "state": "Ondo",
+      "headquarters": "Akure",
+      "governor": "Rotimi Akeredolu",
+      "gdp": "8.2 billion USD",
+      "population": {
+        "count": "4.1 million",
+        "year": 2024
+      },
+      "landmass": "15,500 km²"
+    },
+    {
+      "state": "Osun",
+      "headquarters": "Osogbo",
+      "governor": "Adegboyega Oyetola",
+      "gdp": "6.7 billion USD",
+      "population": {
+        "count": "4.1 million",
+        "year": 2024
+      },
+      "landmass": "9,246 km²"
+    },
+    {
+      "state": "Oyo",
+      "headquarters": "Ibadan",
+      "governor": "Seyi Makinde",
+      "gdp": "12.4 billion USD",
+      "population": {
+        "count": "7.5 million",
+        "year": 2024
+      },
+      "landmass": "28,454 km²"
+    },
+    {
+      "state": "Plateau",
+      "headquarters": "Jos",
+      "governor": "Caleb Mutfwang",
+      "gdp": "5.6 billion USD",
+      "population": {
+        "count": "4.5 million",
+        "year": 2024
+      },
+      "landmass": "30,913 km²"
+    },
+    {
+      "state": "Rivers",
+      "headquarters": "Port Harcourt",
+      "governor": "Siminalayi Fubara",
+      "gdp": "15.2 billion USD",
+      "population": {
+        "count": "7.6 million",
+        "year": 2024
+      },
+      "landmass": "11,077 km²"
+    },
+    {
+      "state": "Sokoto",
+      "headquarters": "Sokoto",
+      "governor": "Ahmed Aliyu",
+      "gdp": "4.5 billion USD",
+      "population": {
+        "count": "5.0 million",
+        "year": 2024
+      },
+      "landmass": "25,973 km²"
+    },
+    {
+      "state": "Taraba",
+      "headquarters": "Jalingo",
+      "governor": "Agbu Kefas",
+      "gdp": "4.8 billion USD",
+      "population": {
+        "count": "3.4 million",
+        "year": 2024
+      },
+      "landmass": "54,473 km²"
+    },
+    {
+      "state": "Yobe",
+      "headquarters": "Damaturu",
+      "governor": "Mai Mala Buni",
+      "gdp": "4.1 billion USD",
+      "population": {
+        "count": "3.0 million",
+        "year": 2024
+      },
+      "landmass": "45,502 km²"
+    },
+    {
+      "state": "Zamfara",
+      "headquarters": "Gusau",
+      "governor": "Dauda Lawal",
+      "gdp": "4.7 billion USD",
+      "population": {
+        "count": "4.8 million",
+        "year": 2024
+      },
+      "landmass": "39,762 km²"
+    }
+]
